@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Vismaya Vinod</h1>
-<h3 align="center">An aspiring Cyber Analyst</h3>
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=90&pause=30000&color=6403F7&center=true&vCenter=true&random=false&width=750&height=200&lines=Hello++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Vismaya" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=50&pause=1000&color=6403F7&vCenter=true&random=false&width=500&separator=%3C&lines=Cybersecurity+Specialist%3CEthical+Hacker%3CFlutter+Developer%3CB.Tech+@+VIT+Bhopal%3CCodeVita+Rank+2828%3C314+Day+LeetCode+Streak" alt="Typing SVG" /></a>
+</p>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vismaya2xx4&label=Profile%20views&color=0e75b6&style=flat" alt="vismaya2xx4" /> </p>
+<img align="right" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1dGx5d3V5c2V3Z3NlZ3J0dGZ6bW1xYzB0d2l5b2V6bWJ6bGZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vismaya2xx4" alt="vismaya2xx4" /></a> </p>
+<div align="center">
+  
+### My Complete Skillset
 
-- 🔭 I’m currently working on **Cyber Security related projects**
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,android,kotlin,html,css,js,react,nodejs,firebase,mysql,sql,git,github,figma,linux,kali,raspberrypi,aws,azure,postman,vscode,eclipse,androidstudio,bootstrap,matlab,blender,illustrator&perline=8)](https://github.com/vismaya2xx4)
 
-- 📫 How to reach me **https://www.linkedin.com/in/vismaya-vinod-20a01a252/**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vismaya vinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vismaya vinod" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vismaya2xx4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vismaya2xx4" height="30" width="40" /></a>
+<br clear="both">
+
+### 🔐 Cybersecurity Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=Nmap&logoColor=black">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔥 Featured Projects
+<div align="center">
+  
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **CYPICS** | Crime reporting Android app | `Firebase` `SQL` `Java` |
+| **UNITY SERVE** | NGO platform with microservices | `Firestore` `React` `Node.js` |
+| **Image Steganography** | Coverless data hiding system | `Python` `OpenCV` |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vismaya2xx4&show_icons=true&locale=en&layout=compact" alt="vismaya2xx4" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vismaya2xx4&show_icons=true&locale=en" alt="vismaya2xx4" /></p>
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vismaya2xx4&show_icons=true&theme=radical&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismaya2xx4&layout=compact&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vismaya2xx4&theme=radical">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vismaya2xx4&" alt="vismaya2xx4" /></p>
+<img src="https://raw.githubusercontent.com/vismaya2xx4/vismaya2xx4/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vismaya2xx4/count.svg?"  />
+  
+  <a href="https://www.linkedin.com/in/vismaya-vinod-20a01a252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:vismayav2xx4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/vismaya2xx4/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+</div>
