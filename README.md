@@ -2,9 +2,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=90&pause=30000&color=6403F7&center=true&vCenter=true&random=false&width=750&height=200&lines=Hello++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Vismaya" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=50&pause=1000&color=6403F7&vCenter=true&random=false&width=500&separator=%3C&lines=Cybersecurity+Specialist%3CEthical+Hacker%3CFlutter+Developer%3CB.Tech+@+VIT+Bhopal%3CCodeVita+Rank+2828%3C314+Day+LeetCode+Streak" alt="Typing SVG" /></a>
 </p>
-<br>
 
-<img align="right" width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1dGx5d3V5c2V3Z3NlZ3J0dGZ6bW1xYzB0d2l5b2V6bWJ6bGZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
+<br><br> <!-- Added extra line breaks to push GIF down -->
+
+<div align="center">
+  <img width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1dGx5d3V5c2V3Z3NlZ3J0dGZ6bW1xYzB0d2l5b2V6bWJ6bGZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Hacker GIF">
+</div>
 
 <div align="center">
   
@@ -45,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vismaya2xx4&theme=radical">
 </div>
 
-<!-- Snake Animation Integration -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/vismaya2xx4/vismaya2xx4/output/snake.svg" alt="Snake animation">
 </div>
