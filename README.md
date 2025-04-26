@@ -13,7 +13,7 @@
   
 ### My Complete Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,kotlin,html,css,js,react,nodejs,firebase,mysql,sql,github,figma,linux,kali,raspberrypi,aws,azure,postman,vscode,eclipse,androidstudio,bootstrap,matlab,blender,illustrator&perline=8)](https://github.com/vismaya2xx4)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,kotlin,html,css,js,react,nodejs,firebase,mysql,github,figma,linux,kali,raspberrypi,aws,azure,postman,vscode,androidstudio,bootstrap,matlab,blender,illustrator&perline=8)](https://github.com/vismaya2xx4)
 
 </div>
 
