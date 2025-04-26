@@ -56,7 +56,7 @@
 
 
   
-  <a href="https://www.linkedin.com/in/vismaya-vinod-20a01a252/">
+  <a href="[https://www.linkedin.com/in/vismaya-vinod-20a01a252/](https://www.linkedin.com/in/vismaya-vinod-nair-20a01a252/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vismayav2xx4@gmail.com">
