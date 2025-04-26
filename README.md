@@ -40,7 +40,13 @@
 | **Image Steganography** | Coverless data hiding system | `Python` `OpenCV` |
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vismaya2xx4/vismaya2xx4/output/snake.svg" alt="Snake animation">
+</div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vismaya2xx4/count.svg?"  />
+  
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vismaya2xx4&show_icons=true&theme=radical&count_private=true">
@@ -48,12 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vismaya2xx4&theme=radical">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vismaya2xx4/vismaya2xx4/output/snake.svg" alt="Snake animation">
-</div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vismaya2xx4/count.svg?"  />
   
   <a href="https://www.linkedin.com/in/vismaya-vinod-20a01a252/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
