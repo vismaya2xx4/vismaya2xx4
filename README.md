@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/vismaya2xx4/count.svg?"  />
   
-### 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vismaya2xx4&show_icons=true&theme=radical&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismaya2xx4&layout=compact&theme=radical">
