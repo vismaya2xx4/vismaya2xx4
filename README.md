@@ -1,6 +1,6 @@
 <p align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=90&pause=30000&color=6403F7&center=true&vCenter=true&random=false&width=750&height=200&lines=Hello++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Vismaya" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=50&pause=1000&color=6403F7&vCenter=true&random=false&width=500&separator=%3C&lines=Cybersecurity+Specialist%3CEthical+Hacker%3CFlutter+Developer%3CB.Tech+@+VIT+Bhopal%3CCodeVita+Rank+2828%3C314+Day+LeetCode+Streak" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=50&pause=1000&color=6403F7&vCenter=true&random=false&width=500&separator=%3C&lines=Cybersecurity+Analyst%3CEthical+Hacker%3CFull+Stack+Developer%3CB.Tech+@+VIT+Bhopal%3CCodeVita+Rank+2828%3C314++Day+LeetCode+Streak" alt="Typing SVG" /></a>
 </p>
 
 <br><br> <!-- Added extra line breaks to push GIF down -->
